@@ -38,7 +38,7 @@ return {
 	['weapon_license'] = "Weapons License",
 	['has_weapon_license'] = "You already have a Weapons License",
 	['bought_weapon_license'] = "You have purchased a Weapons License",
-	['poor_weapon_license'] = "You can not afford a Weapons License",
+	['poor_weapon_license'] = "Weapons License cost $5000 , You can't not afford It ",
 	['purchase_license'] = "[~g~E~s~] Purchase license",
 	['weapon_unregistered'] = "%s is not registered to anyone",
 	['weapon_registered'] = "%s (%s) is registered to %s",
